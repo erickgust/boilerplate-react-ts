@@ -17,22 +17,22 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@types/react": "18.0.17",
-    "@types/react-dom": "18.0.6",
-    "@typescript-eslint/eslint-plugin": "5.38.1",
-    "@typescript-eslint/parser": "5.38.1",
-    "@vitejs/plugin-react": "2.1.0",
-    "eslint": "8.0.1",
+    "@types/react": "18.0.29",
+    "@types/react-dom": "18.0.11",
+    "@typescript-eslint/eslint-plugin": "5.56.0",
+    "@typescript-eslint/parser": "5.56.0",
+    "@vitejs/plugin-react": "3.1.0",
+    "eslint": "8.36.0",
     "eslint-config-standard": "17.0.0",
-    "eslint-plugin-import": "2.25.2",
-    "eslint-plugin-n": "15.0.0",
-    "eslint-plugin-promise": "6.0.0",
-    "eslint-plugin-react": "7.31.8",
+    "eslint-plugin-import": "2.27.5",
+    "eslint-plugin-n": "15.6.1",
+    "eslint-plugin-promise": "6.1.1",
+    "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
-    "husky": "8.0.1",
-    "typescript": "4.6.4",
-    "vite": "3.1.0",
-    "vite-plugin-svgr": "2.2.2",
-    "vite-tsconfig-paths": "3.5.1"
+    "husky": "8.0.3",
+    "typescript": "5.0.2",
+    "vite": "4.2.1",
+    "vite-plugin-svgr": "2.4.0",
+    "vite-tsconfig-paths": "4.0.7"
   }
 }
