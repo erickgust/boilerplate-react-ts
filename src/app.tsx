@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { ReactComponent as Logo } from './logo.svg'
+import Logo from './logo.svg?react'
 
 function App () {
   const [counter, setCounter] = useState(0)
